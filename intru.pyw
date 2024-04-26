@@ -4,7 +4,7 @@ import os
 from pushbullet import PushBullet
 
 # Your PushBullet API key
-API_KEY = "o.RdvSd6jqa7Q6DmdbXIcQdQFJ8RZdAzLz"
+API_KEY = "" #provide your api key here
 
 def intruder_pic():
     cam = cv2.VideoCapture(0)
